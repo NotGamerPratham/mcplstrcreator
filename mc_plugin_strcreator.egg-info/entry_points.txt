@@ -1,0 +1,2 @@
+[console_scripts]
+mc-plugin-create = mc_plugin_strcreator.cli:main

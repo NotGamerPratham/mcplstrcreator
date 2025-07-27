@@ -1,0 +1,12 @@
+LICENSE
+README.md
+pyproject.toml
+setup.py
+mc_plugin_strcreator/__init__.py
+mc_plugin_strcreator/cli.py
+mc_plugin_strcreator/generator.py
+mc_plugin_strcreator.egg-info/PKG-INFO
+mc_plugin_strcreator.egg-info/SOURCES.txt
+mc_plugin_strcreator.egg-info/dependency_links.txt
+mc_plugin_strcreator.egg-info/entry_points.txt
+mc_plugin_strcreator.egg-info/top_level.txt
