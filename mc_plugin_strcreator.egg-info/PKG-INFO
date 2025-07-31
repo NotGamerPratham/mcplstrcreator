@@ -1,6 +1,6 @@
 Metadata-Version: 2.4
 Name: mc-plugin-strcreator
-Version: 0.1.0
+Version: 0.1.2
 Summary: A tool to scaffold Minecraft plugin structure with pom.xml and Main.java
 Home-page: https://github.com/NotGamerPratham/mcplstrcreator
 Author: NotGamerPratham
